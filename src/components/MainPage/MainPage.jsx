@@ -29,8 +29,8 @@ export default function MainPage() {
   return (
     <main>
       <Helmet>
-        <title>Gates Enterprises Homepage | Roofing with Values </title>
-        <meta name="description" content="Instant roof quote, company reviews, hail damage, and info on filing a claim." />
+        <title>Gates Roofing: Denver's Top Roofer for Estimates & Replacements</title>
+        <meta name="description" content="Gates Roofing–your trusted choice for the best roofer in Denver. Get a free estimate to replace a roof, hail damage, and metal roof solutions. Visit now!" />
         <link rel="canonical" href="https://www.gatesroof.com/" />
       </Helmet>
       <Grid container
